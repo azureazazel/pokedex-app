@@ -19,16 +19,7 @@ A cross-platform Flutter app where users can manage their Pokémon card collecti
 
 ---
 
-## Screenshots
 
-<!-- Add screenshots of your app here -->
-1. List Screen:
-![List Screen](path_to_list_screen_screenshot.png)
-
-2. Add Screen:
-![Add Screen](path_to_add_screen_screenshot.png)
-
----
 
 ## Getting Started
 
