@@ -21,14 +21,13 @@ class AddScreenState extends State<AddScreen> {
       ),
       body: Stack(
         children: [
-          // Background image
           Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/pokeball_background.png'), // Path to background image
+                image: AssetImage('assets/pokeball_background.png'), 
                 fit: BoxFit.cover,
                 colorFilter: ColorFilter.mode(
-                  Colors.white.withOpacity(0.6), // Slight overlay for readability
+                  Colors.white.withOpacity(0.6), 
                   BlendMode.dstATop,
                 ),
               ),

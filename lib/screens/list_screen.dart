@@ -75,10 +75,10 @@ class ListScreenState extends State<ListScreen> {
           Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/pokeball_background.png'), // Path to your Pokéball background image
-                fit: BoxFit.cover, // Ensures the image covers the screen
+                image: AssetImage('assets/pokeball_background.png'), 
+                fit: BoxFit.cover, 
                 colorFilter: ColorFilter.mode(
-                  Colors.white.withOpacity(0.6), // Slight white overlay for better readability
+                  Colors.white.withOpacity(0.6), 
                   BlendMode.dstATop,
                 ),
               ),
@@ -118,21 +118,21 @@ class ListScreenState extends State<ListScreen> {
                         title: Text(
                           card.name,
                           style: TextStyle(
-                            fontFamily: 'Pokemon', // Pokémon font for title
+                            fontFamily: 'Pokemon', 
                             fontSize: 18,
                             fontWeight: FontWeight.bold,
                             color: Colors.black87,
                           ),
                         ),
                         subtitle: Column(
-                          crossAxisAlignment: CrossAxisAlignment.end, // Align to right
+                          crossAxisAlignment: CrossAxisAlignment.end, 
                           children: [
                             Text(
                               'Type: ${card.type}',
                               textAlign: TextAlign.right,
                               style: TextStyle(
                                 fontSize: 14,
-                                color: Colors.black, // Default font for description
+                                color: Colors.black, 
                               ),
                             ),
                             Text(
@@ -140,7 +140,7 @@ class ListScreenState extends State<ListScreen> {
                               textAlign: TextAlign.right,
                               style: TextStyle(
                                 fontSize: 14,
-                                color: Colors.black, // Default font for description
+                                color: Colors.black, 
                               ),
                             ),
                           ],
