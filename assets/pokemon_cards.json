@@ -1,0 +1,602 @@
+[
+    {
+        "name":"Alakazam",
+        "types":"Psychic",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Blastoise",
+        "types":"Water",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Chansey",
+        "types":"Colorless",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Charizard",
+        "types":"Fire",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Clefairy",
+        "types":"Colorless",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Gyarados",
+        "types":"Water",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Hitmonchan",
+        "types":"Fighting",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Machamp",
+        "types":"Fighting",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Magneton",
+        "types":"Lightning",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Mewtwo",
+        "types":"Psychic",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Nidoking",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Ninetales",
+        "types":"Fire",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Poliwrath",
+        "types":"Water",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Raichu",
+        "types":"Lightning",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Venusaur",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Zapdos",
+        "types":"Lightning",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Beedrill",
+        "types":"Grass",
+        "rarity":"Rare"
+    },
+    {
+        "name":"Dragonair",
+        "types":"Colorless",
+        "rarity":"Rare"
+    },
+    {
+        "name":"Dugtrio",
+        "types":"Fighting",
+        "rarity":"Rare"
+    },
+    {
+        "name":"Electabuzz",
+        "types":"Lightning",
+        "rarity":"Rare"
+    },
+    {
+        "name":"Electrode",
+        "types":"Lightning",
+        "rarity":"Rare"
+    },
+    {
+        "name":"Pidgeotto",
+        "types":"Colorless",
+        "rarity":"Rare"
+    },
+    {
+        "name":"Arcanine",
+        "types":"Fire",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Charmeleon",
+        "types":"Fire",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Dewgong",
+        "types":"Water",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Dratini",
+        "types":"Colorless",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Farfetch'd",
+        "types":"Colorless",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Growlithe",
+        "types":"Fire",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Haunter",
+        "types":"Psychic",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Ivysaur",
+        "types":"Grass",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Jynx",
+        "types":"Psychic",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Kadabra",
+        "types":"Psychic",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Kakuna",
+        "types":"Grass",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Machoke",
+        "types":"Fighting",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Magikarp",
+        "types":"Water",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Magmar",
+        "types":"Fire",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Nidorino",
+        "types":"Grass",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Poliwhirl",
+        "types":"Water",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Porygon",
+        "types":"Colorless",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Raticate",
+        "types":"Colorless",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Seel",
+        "types":"Water",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Wartortle",
+        "types":"Water",
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Abra",
+        "types":"Psychic",
+        "rarity":"Common"
+    },
+    {
+        "name":"Bulbasaur",
+        "types":"Grass",
+        "rarity":"Common"
+    },
+    {
+        "name":"Caterpie",
+        "types":"Grass",
+        "rarity":"Common"
+    },
+    {
+        "name":"Charmander",
+        "types":"Fire",
+        "rarity":"Common"
+    },
+    {
+        "name":"Diglett",
+        "types":"Fighting",
+        "rarity":"Common"
+    },
+    {
+        "name":"Doduo",
+        "types":"Colorless",
+        "rarity":"Common"
+    },
+    {
+        "name":"Drowzee",
+        "types":"Psychic",
+        "rarity":"Common"
+    },
+    {
+        "name":"Gastly",
+        "types":"Psychic",
+        "rarity":"Common"
+    },
+    {
+        "name":"Koffing",
+        "types":"Grass",
+        "rarity":"Common"
+    },
+    {
+        "name":"Machop",
+        "types":"Fighting",
+        "rarity":"Common"
+    },
+    {
+        "name":"Magnemite",
+        "types":"Lightning",
+        "rarity":"Common"
+    },
+    {
+        "name":"Metapod",
+        "types":"Grass",
+        "rarity":"Common"
+    },
+    {
+        "name":"Nidoran \u2642",
+        "types":"Grass",
+        "rarity":"Common"
+    },
+    {
+        "name":"Onix",
+        "types":"Fighting",
+        "rarity":"Common"
+    },
+    {
+        "name":"Pidgey",
+        "types":"Colorless",
+        "rarity":"Common"
+    },
+    {
+        "name":"Pikachu",
+        "types":"Lightning",
+        "rarity":"Common"
+    },
+    {
+        "name":"Poliwag",
+        "types":"Water",
+        "rarity":"Common"
+    },
+    {
+        "name":"Ponyta",
+        "types":"Fire",
+        "rarity":"Common"
+    },
+    {
+        "name":"Rattata",
+        "types":"Colorless",
+        "rarity":"Common"
+    },
+    {
+        "name":"Sandshrew",
+        "types":"Fighting",
+        "rarity":"Common"
+    },
+    {
+        "name":"Squirtle",
+        "types":"Water",
+        "rarity":"Common"
+    },
+    {
+        "name":"Starmie",
+        "types":"Water",
+        "rarity":"Common"
+    },
+    {
+        "name":"Staryu",
+        "types":"Water",
+        "rarity":"Common"
+    },
+    {
+        "name":"Tangela",
+        "types":"Grass",
+        "rarity":"Common"
+    },
+    {
+        "name":"Voltorb",
+        "types":"Lightning",
+        "rarity":"Common"
+    },
+    {
+        "name":"Vulpix",
+        "types":"Fire",
+        "rarity":"Common"
+    },
+    {
+        "name":"Weedle",
+        "types":"Grass",
+        "rarity":"Common"
+    },
+    {
+        "name":"Clefairy Doll",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Computer Search",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Devolution Spray",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Impostor Professor Oak",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Item Finder",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Lass",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Pok\u00e9mon Breeder",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Pok\u00e9mon Trader",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Scoop Up",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Super Energy Removal",
+        "types":null,
+        "rarity":"Rare"
+    },
+    {
+        "name":"Defender",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Energy Retrieval",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Full Heal",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Maintenance",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"PlusPower",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Pok\u00e9mon Center",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Pok\u00e9mon Flute",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Pok\u00e9dex",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Professor Oak",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Revive",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Super Potion",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Bill",
+        "types":null,
+        "rarity":"Common"
+    },
+    {
+        "name":"Energy Removal",
+        "types":null,
+        "rarity":"Common"
+    },
+    {
+        "name":"Gust of Wind",
+        "types":null,
+        "rarity":"Common"
+    },
+    {
+        "name":"Potion",
+        "types":null,
+        "rarity":"Common"
+    },
+    {
+        "name":"Switch",
+        "types":null,
+        "rarity":"Common"
+    },
+    {
+        "name":"Double Colorless Energy",
+        "types":null,
+        "rarity":"Uncommon"
+    },
+    {
+        "name":"Fighting Energy",
+        "types":null,
+        "rarity":null
+    },
+    {
+        "name":"Fire Energy",
+        "types":null,
+        "rarity":null
+    },
+    {
+        "name":"Grass Energy",
+        "types":null,
+        "rarity":null
+    },
+    {
+        "name":"Lightning Energy",
+        "types":null,
+        "rarity":null
+    },
+    {
+        "name":"Psychic Energy",
+        "types":null,
+        "rarity":null
+    },
+    {
+        "name":"Water Energy",
+        "types":null,
+        "rarity":null
+    },
+    {
+        "name":"Clefable",
+        "types":"Colorless",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Electrode",
+        "types":"Lightning",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Flareon",
+        "types":"Fire",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Jolteon",
+        "types":"Lightning",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Kangaskhan",
+        "types":"Colorless",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Mr. Mime",
+        "types":"Psychic",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Nidoqueen",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Pidgeot",
+        "types":"Colorless",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Pinsir",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Scyther",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Snorlax",
+        "types":"Colorless",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Vaporeon",
+        "types":"Water",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Venomoth",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Victreebel",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Vileplume",
+        "types":"Grass",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Wigglytuff",
+        "types":"Colorless",
+        "rarity":"Rare Holo"
+    },
+    {
+        "name":"Clefable",
+        "types":"Colorless",
+        "rarity":"Rare"
+    },
+    {
+        "name":"Electrode",
+        "types":"Lightning",
+        "rarity":"Rare"
+    }
+]
